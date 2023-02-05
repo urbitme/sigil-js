@@ -35,7 +35,9 @@ const Sigil = props => {
 
 ## Install
 
-`npm install @tlon/sigil-js`
+`npm install urbitme-sigil-js`
+
+Note: this is a temporary published version.  The official package is at [urbit/sigil-js](https://github.com/urbit/sigil-js).
 
 ## API
 
